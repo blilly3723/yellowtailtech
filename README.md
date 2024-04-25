@@ -1,5 +1,4 @@
 Procedures for website deployment:
-<<<<<<< HEAD
 1 Install Apache server
 2 Edit the config file
 3 Manage service
